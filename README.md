@@ -4,14 +4,15 @@
 Bachelor of Statistics | Jakarta State University
 
 ## Technical Skills
-- Remote Time Management | Pomofocus.io, Clockify (in progress)
-- Remote Collaboration tool	| GSuite, Teams, Zoom
-- Analytical Tool	| Microsoft Excel, Google Spreadsheet
-- Analytical Method	| Statistical Analysis, Data Modelling
-- Programming Language | SQL, Python, R
-- Data Visualization Tool	| Tableau, Looker Studio
-- Generative AI	| ChatGPT, Gemini, Copilot
-- Community	| Discord, Telegram
+| --- | --- |
+| Remote Time Management | Pomofocus.io, Clockify |
+| Remote Collaboration tool	| Google Workspace, Teams, Zoom |
+| Analytical Tool	| Microsoft Excel, Google Spreadsheet |
+| Analytical Method	| Statistical Analysis, Data Modelling |
+| Programming Language | SQL, Python, R |
+| Data Visualization Tool	| Tableau, Looker Studio |
+| Generative AI	| ChatGPT, Gemini, Copilot |
+| Community	| Discord, Telegram |
 
 ## Projects
 ### Hierarchical Cluster Analysis for Labor Market Segmentation in Indonesia
