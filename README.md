@@ -4,13 +4,14 @@
 Bachelor of Statistics | Jakarta State University
 
 ## Technical Skills
+| Skills | Tools |
 | --- | --- |
 | Remote Time Management | Pomofocus.io, Clockify |
-| Remote Collaboration tool	| Google Workspace, Teams, Zoom |
+| Remote Collaboration	| Google Workspace, Teams, Zoom |
 | Analytical Tool	| Microsoft Excel, Google Spreadsheet |
 | Analytical Method	| Statistical Analysis, Data Modelling |
 | Programming Language | SQL, Python, R |
-| Data Visualization Tool	| Tableau, Looker Studio |
+| Data Visualization | Tableau, Looker |
 | Generative AI	| ChatGPT, Gemini, Copilot |
 | Community	| Discord, Telegram |
 
