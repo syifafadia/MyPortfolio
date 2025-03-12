@@ -17,6 +17,7 @@ Bachelor of Statistics | Jakarta State University
 
 ## Projects
 ### Hierarchical Cluster Analysis for Labor Market Segmentation in Indonesia
+> Software: RStudio
 This project is completed for my bachelor research paper, where I analyze labor market segmentation in Indonesia.
 - Resource: 2021 Indonesian Economic Report published by the Central Bureau of Statistics (BPS).
 - Objective: Identify provinces with similar labor market characteristics to assist in targeted employment policies.
